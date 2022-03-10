@@ -1,0 +1,20 @@
+html {
+    background: url("imges/blush-clouds-daydream.jpg") no-repeat center fixed;
+    background-size: auto;
+}
+
+body {
+    background: rgba(255, 255, 255, 0.7);
+    text-align: left;
+    padding: 25px 100px;
+    width: 420px;
+    margin: 25px auto;
+    border-radius: 25px;
+    margin-top:  120px;
+}
+
+#ateball {
+    width: 400px;
+    height: 200px;
+    cursor: pointer;
+}
